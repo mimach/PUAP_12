@@ -1,0 +1,68 @@
+quality=[];
+load('transfer_functions.mat')
+n=9;
+m=[21 21 10 6 9 9 36 11 10];
+simulation_time = 30;
+model_nsat = 'PIDmodel_nsat.slx';
+model_sat = 'PIDmodel_sat.slx';
+for i = 1:1%n
+    for j=1:4%m(i)
+        try
+            %% Load transfer function %%
+            name=strcat('G',num2str(i),'(',num2str(j),')');
+            G = eval(name);
+            transfer_function=strcat('$$G(s)=',latex(poly2sym(cell2mat(eval(strcat(name,'.num'))),s)/poly2sym(cell2mat(eval(strcat(name,'.den'))),s)),'$$');
+            
+            %% Plot step response %%
+            fig = figure();
+            h=subplot(3,1,1);
+            set(h,'pos',[0.1300    0.7696    0.7750    0.2157]);
+            step(G,simulation_time);
+            grid on;
+
+            %% Design PID controller %%
+            [ctr,info]=pidtune(G,'pid');
+            cmd_sys=feedback(ctr*G,1);    
+            
+            %% Perform simulation (not saturated), plot model response %%
+            sim(model_nsat); 
+            
+            h=subplot(3,1,2);
+            set(h,'pos',[0.1300    0.4246    0.7750    0.2157]);
+            plot(sp, 'r');
+            hold on;
+            plot(control, 'g');
+            plot(pv, 'b');
+            grid on;
+            ylabel('Amplitude');
+            xlabel('Time (seconds)');
+            title(strcat('Not saturated control: ',transfer_function, e1.Data(length(e1.Data))), 'Interpreter', 'Latex')
+            legend('set value','control value','response value', 'Location','southeast');
+            
+            %% Perform simulation (saturated), plot model response %%
+            sim(model_sat); 
+            
+            h=subplot(3,1,3);
+            set(h,'pos',[0.1300    0.0800    0.7750    0.2157])
+            plot(sp, 'r');
+            hold on;
+            plot(control, 'g');
+            plot(pv, 'b');
+            grid on;
+            ylabel('Amplitude');
+            xlabel('Time (seconds)');
+            title(strcat('Saturated control: ',transfer_function, ), 'Interpreter', 'Latex')
+            legend('set value','control value','response value', 'Location','southeast');
+            
+            quality=[quality; i j e1.Data(length(e1.Data)) e2.Data(length(e2.Data))];
+            
+            %% Save to file %%
+            file = strcat('sprawozdanie\G',int2str(i),'-tf-', int2str(j));
+            print(fig,file,'-dpng');
+            close(fig)
+        catch ME
+            strcat('B³¹d w: G',int2str(i),'(',int2str(j),').')
+        end
+    end
+end
+save('sprawozdanie\report.txt','quality','-ascii')

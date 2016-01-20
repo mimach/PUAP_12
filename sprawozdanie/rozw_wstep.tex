@@ -1,0 +1,55 @@
+Celem projektu jest nastrojenie regulatorów dla następujących procesów:
+ \begin{itemize}
+
+	 \item $ P_{1}(s) = \frac{e^{-s}}{1 +sT}	$,
+	
+	gdzie T = 0.02, 0.05, 0.1, 0.2, 0.3, 0.5, 0.7, 1, 1.2, 1.5, 2, 4, 6, 8, 10, 20, 50, 100, 200, 500, 1000
+
+	\item $ P_{2}(s) = \frac{e^{-s}}{(1 +sT)^2} $,
+	
+	gdzie T = 0.01, 0.02, 0.05, 0.1, 0.2, 0.3, 0.5, 0.7, 1, 1.2, 1.5, 2, 4, 6, 8, 10, 20, 50, 100, 200, 500
+	
+	\item $ P_{3}(s) = \frac{e^{-s}}{(1 +s)(1 +sT)^2}	$,
+	
+	gdzie T = 0.005, 0.01, 0.02, 0.05, 0.1, 0.2,  0.5,  2, 5, 10
+	
+	\item $ P_{4}(s) = \frac{1}{(1 +s)^n}	$,
+	
+	gdzie n =3, 4, 5, 6, 7, 8
+	
+	\item $ P_{5}(s) = \frac{1}{(1 +s)(1 +\alpha s)(1 +\alpha^2 s)(1 +\alpha^3s)}	$,
+	
+	gdzie \(\alpha \) = 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9
+	
+	\item $ P_{6}(s) = \frac{e^{-sL}}{s(1 +sT)} $,
+	
+	gdzie L = 0.01, 0.02, 0.05, 0.1, 0.3, 0.5, 0.7, 1 i 
+	T + L = 1
+	
+	\item $ P_{7}(s) = \frac{Te^{-sL}}{(1 +sT)(1 +sT1)} $,
+	
+	gdzie T = 1, 2, 5, 10 i 
+	L = 0.01, 0.02, 0.05, 0.1, 0.3, 0.5, 0.7, 1 i 
+	T1 + L = 1
+	
+	\item $ P_{8}(s) = \frac{1 - \alpha s}{(s+1)^3} $,
+	
+	gdzie \(\alpha \) = 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 1.1
+	
+	\item $ P_{8}(s) = \frac{1}{(s+1)((sT)^2 + 1.4sT + 1)}	$,
+	
+	gdzie T = 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1
+ 	
+ \end{itemize}
+Po wprowadzeniu i posegregowaniu każdej transformaty w Matlabie, utworzono przedstawiony w następnej sekcji skrypt, którego zadaniem jest zautomatyzowane obsłużenie każdego obiektu. Obsługa ta zakłada:
+
+\begin{itemize}
+	\item Wyrysowanie odpowiedzi skokowej obiektu;
+	\item Zaprojektowanie regulatora PID;
+	\item Wyrysowanie przebiegów na podstawie modelu, który w pierwszej sekundzie symulacji zmienia wartość zadaną z 0 na 1:
+	\begin{itemize}
+		\item[$\bullet$] bez modyfikowanego sterowania,
+		\item[$\bullet$] ze sterowaniem poddanym saturacji,
+		\item[$\bullet$] ze sterowaniem poddanym saturacji oraz szumem na wartości zadanej oraz wyjściu obiektu.
+	\end{itemize}
+\end{itemize}

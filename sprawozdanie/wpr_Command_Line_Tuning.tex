@@ -1,0 +1,16 @@
+Ostatnim i zarazem wykorzystanym w niniejszym projekcie sposobem jest strojenie regulatora za pomocą komendy uruchamianej w skrypcie. Umożliwiło to automatyzację działań. Polecenie
+
+\textit{pidTune(sys,type,opts)}.
+
+\noindent zaprojektuje regulator typu \textit{type} dla obiektu \textit{sys} w pętli sprzężenia zwrotnego. Funkcja zwraca  obiekt \textit{pid} oraz informacje na temat:
+\begin{itemize}
+	\item Stabilności,
+	\item Częstotliwości crossover,
+	\item Zapas fazy.
+\end{itemize}
+Komenda pozwala dodać opcje modyfikujące  domyślne ustawienia strojenia. Są to:
+\begin{itemize}
+	\item Zapas fazy (domyślnie 60),
+	\item Tryb strojenia (domyślnie \textit{balanced}),
+	\item Ilość niestabilnych pierwiastków.
+\end{itemize}
