@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.17)  20 JAN 2016 23:30
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.17)  20 JAN 2016 23:20
+>>>>>>> origin/master
 entering extended mode
 **projekt.tex
 (projekt.tex
@@ -880,19 +884,33 @@ Rozdzia\l  2.
 File: ClosedLoopModel.jpg Graphic file (type jpg)
 
 <use ClosedLoopModel.jpg>
+<<<<<<< HEAD
 Package pdftex.def Info: ClosedLoopModel.jpg used on input line 3.
 (pdftex.def)             Requested size: 398.33858pt x 241.83395pt.
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 9.
+=======
+Package pdftex.def Info: ClosedLoopModel.jpg used on input line 2.
+(pdftex.def)             Requested size: 398.33858pt x 241.83395pt.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 8.
+>>>>>>> origin/master
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
+<<<<<<< HEAD
 LaTeX Font Info:    Try loading font information for TS1+pcr on input line 11.
+=======
+LaTeX Font Info:    Try loading font information for TS1+pcr on input line 10.
+>>>>>>> origin/master
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1pcr.fd"
 File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
 )
+<<<<<<< HEAD
 Overfull \hbox (24.76077pt too wide) in paragraph at lines 24--25
+=======
+Overfull \hbox (24.76077pt too wide) in paragraph at lines 23--24
+>>>>>>> origin/master
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][] 
  []
@@ -901,19 +919,28 @@ Overfull \hbox (24.76077pt too wide) in paragraph at lines 24--25
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
+<<<<<<< HEAD
 Overfull \hbox (72.76126pt too wide) in paragraph at lines 89--90
+=======
+Overfull \hbox (72.76126pt too wide) in paragraph at lines 88--89
+>>>>>>> origin/master
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 ) (zamkniety.tex <G1-tf-1a.png, id=52, 578.16pt x 433.62pt>
 File: G1-tf-1a.png Graphic file (type png)
  <use G1-tf-1a.png>
+<<<<<<< HEAD
 Package pdftex.def Info: G1-tf-1a.png used on input line 15.
+=======
+Package pdftex.def Info: G1-tf-1a.png used on input line 14.
+>>>>>>> origin/master
 (pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
 
 <G1-tf-1b.png, id=53, 578.16pt x 433.62pt>
 File: G1-tf-1b.png Graphic file (type png)
  <use G1-tf-1b.png>
+<<<<<<< HEAD
 Package pdftex.def Info: G1-tf-1b.png used on input line 15.
 (pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
 
@@ -1164,11 +1191,260 @@ Package pdftex.def Info: G1-tf-21b.png used on input line 15.
 File: G2-tf-1a.png Graphic file (type png)
  <use G2-tf-1a.png>
 Package pdftex.def Info: G2-tf-1a.png used on input line 30.
+=======
+Package pdftex.def Info: G1-tf-1b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-2a.png, id=54, 578.16pt x 433.62pt>
+File: G1-tf-2a.png Graphic file (type png)
+ <use G1-tf-2a.png>
+Package pdftex.def Info: G1-tf-2a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [10 <./G1-tf-1a.png (PNG copy)>] <G1-tf-2b.png, id=58, 578.16pt x 433.62pt>
+File: G1-tf-2b.png Graphic file (type png)
+ <use G1-tf-2b.png>
+Package pdftex.def Info: G1-tf-2b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-3a.png, id=59, 578.16pt x 433.62pt>
+File: G1-tf-3a.png Graphic file (type png)
+ <use G1-tf-3a.png>
+Package pdftex.def Info: G1-tf-3a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [11 <./G1-tf-1b.png (PNG copy)> <./G1-tf-2a.png (PNG copy)>]
+<G1-tf-3b.png, id=63, 578.16pt x 433.62pt>
+File: G1-tf-3b.png Graphic file (type png)
+ <use G1-tf-3b.png>
+Package pdftex.def Info: G1-tf-3b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-4a.png, id=64, 578.16pt x 433.62pt>
+File: G1-tf-4a.png Graphic file (type png)
+ <use G1-tf-4a.png>
+Package pdftex.def Info: G1-tf-4a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [12 <./G1-tf-2b.png (PNG copy)> <./G1-tf-3a.png (PNG copy)>]
+<G1-tf-4b.png, id=68, 578.16pt x 433.62pt>
+File: G1-tf-4b.png Graphic file (type png)
+ <use G1-tf-4b.png>
+Package pdftex.def Info: G1-tf-4b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-5a.png, id=69, 578.16pt x 433.62pt>
+File: G1-tf-5a.png Graphic file (type png)
+ <use G1-tf-5a.png>
+Package pdftex.def Info: G1-tf-5a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [13 <./G1-tf-3b.png (PNG copy)> <./G1-tf-4a.png (PNG copy)>]
+<G1-tf-5b.png, id=74, 578.16pt x 433.62pt>
+File: G1-tf-5b.png Graphic file (type png)
+ <use G1-tf-5b.png>
+Package pdftex.def Info: G1-tf-5b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-6a.png, id=75, 578.16pt x 433.62pt>
+File: G1-tf-6a.png Graphic file (type png)
+ <use G1-tf-6a.png>
+Package pdftex.def Info: G1-tf-6a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [14 <./G1-tf-4b.png (PNG copy)> <./G1-tf-5a.png (PNG copy)>]
+<G1-tf-6b.png, id=79, 578.16pt x 433.62pt>
+File: G1-tf-6b.png Graphic file (type png)
+ <use G1-tf-6b.png>
+Package pdftex.def Info: G1-tf-6b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-7a.png, id=80, 578.16pt x 433.62pt>
+File: G1-tf-7a.png Graphic file (type png)
+ <use G1-tf-7a.png>
+Package pdftex.def Info: G1-tf-7a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [15 <./G1-tf-5b.png (PNG copy)> <./G1-tf-6a.png (PNG copy)>]
+<G1-tf-7b.png, id=84, 578.16pt x 433.62pt>
+File: G1-tf-7b.png Graphic file (type png)
+ <use G1-tf-7b.png>
+Package pdftex.def Info: G1-tf-7b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-8a.png, id=85, 578.16pt x 433.62pt>
+File: G1-tf-8a.png Graphic file (type png)
+ <use G1-tf-8a.png>
+Package pdftex.def Info: G1-tf-8a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [16 <./G1-tf-6b.png (PNG copy)> <./G1-tf-7a.png (PNG copy)>]
+<G1-tf-8b.png, id=89, 578.16pt x 433.62pt>
+File: G1-tf-8b.png Graphic file (type png)
+ <use G1-tf-8b.png>
+Package pdftex.def Info: G1-tf-8b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-9a.png, id=90, 578.16pt x 433.62pt>
+File: G1-tf-9a.png Graphic file (type png)
+ <use G1-tf-9a.png>
+Package pdftex.def Info: G1-tf-9a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [17 <./G1-tf-7b.png (PNG copy)> <./G1-tf-8a.png (PNG copy)>]
+<G1-tf-9b.png, id=94, 578.16pt x 433.62pt>
+File: G1-tf-9b.png Graphic file (type png)
+ <use G1-tf-9b.png>
+Package pdftex.def Info: G1-tf-9b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-10a.png, id=95, 578.16pt x 433.62pt>
+File: G1-tf-10a.png Graphic file (type png)
+ <use G1-tf-10a.png>
+Package pdftex.def Info: G1-tf-10a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [18 <./G1-tf-8b.png (PNG copy)> <./G1-tf-9a.png (PNG copy)>]
+<G1-tf-10b.png, id=99, 578.16pt x 433.62pt>
+File: G1-tf-10b.png Graphic file (type png)
+ <use G1-tf-10b.png>
+Package pdftex.def Info: G1-tf-10b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-11a.png, id=100, 578.16pt x 433.62pt>
+File: G1-tf-11a.png Graphic file (type png)
+ <use G1-tf-11a.png>
+Package pdftex.def Info: G1-tf-11a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [19 <./G1-tf-9b.png (PNG copy)> <./G1-tf-10a.png (PNG copy)>]
+<G1-tf-11b.png, id=105, 578.16pt x 433.62pt>
+File: G1-tf-11b.png Graphic file (type png)
+ <use G1-tf-11b.png>
+Package pdftex.def Info: G1-tf-11b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-12a.png, id=106, 578.16pt x 433.62pt>
+File: G1-tf-12a.png Graphic file (type png)
+ <use G1-tf-12a.png>
+Package pdftex.def Info: G1-tf-12a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [20 <./G1-tf-10b.png (PNG copy)> <./G1-tf-11a.png (PNG copy)>]
+<G1-tf-12b.png, id=110, 578.16pt x 433.62pt>
+File: G1-tf-12b.png Graphic file (type png)
+ <use G1-tf-12b.png>
+Package pdftex.def Info: G1-tf-12b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-13a.png, id=111, 578.16pt x 433.62pt>
+File: G1-tf-13a.png Graphic file (type png)
+ <use G1-tf-13a.png>
+Package pdftex.def Info: G1-tf-13a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [21 <./G1-tf-11b.png (PNG copy)> <./G1-tf-12a.png (PNG copy)>]
+<G1-tf-13b.png, id=115, 578.16pt x 433.62pt>
+File: G1-tf-13b.png Graphic file (type png)
+ <use G1-tf-13b.png>
+Package pdftex.def Info: G1-tf-13b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-14a.png, id=116, 578.16pt x 433.62pt>
+File: G1-tf-14a.png Graphic file (type png)
+ <use G1-tf-14a.png>
+Package pdftex.def Info: G1-tf-14a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [22 <./G1-tf-12b.png (PNG copy)> <./G1-tf-13a.png (PNG copy)>]
+<G1-tf-14b.png, id=120, 578.16pt x 433.62pt>
+File: G1-tf-14b.png Graphic file (type png)
+ <use G1-tf-14b.png>
+Package pdftex.def Info: G1-tf-14b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-15a.png, id=121, 578.16pt x 433.62pt>
+File: G1-tf-15a.png Graphic file (type png)
+ <use G1-tf-15a.png>
+Package pdftex.def Info: G1-tf-15a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [23 <./G1-tf-13b.png (PNG copy)> <./G1-tf-14a.png (PNG copy)>]
+<G1-tf-15b.png, id=125, 578.16pt x 433.62pt>
+File: G1-tf-15b.png Graphic file (type png)
+ <use G1-tf-15b.png>
+Package pdftex.def Info: G1-tf-15b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-16a.png, id=126, 578.16pt x 433.62pt>
+File: G1-tf-16a.png Graphic file (type png)
+ <use G1-tf-16a.png>
+Package pdftex.def Info: G1-tf-16a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [24 <./G1-tf-14b.png (PNG copy)> <./G1-tf-15a.png (PNG copy)>]
+<G1-tf-16b.png, id=130, 578.16pt x 433.62pt>
+File: G1-tf-16b.png Graphic file (type png)
+ <use G1-tf-16b.png>
+Package pdftex.def Info: G1-tf-16b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-17a.png, id=131, 578.16pt x 433.62pt>
+File: G1-tf-17a.png Graphic file (type png)
+ <use G1-tf-17a.png>
+Package pdftex.def Info: G1-tf-17a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [25 <./G1-tf-15b.png (PNG copy)> <./G1-tf-16a.png (PNG copy)>]
+<G1-tf-17b.png, id=136, 578.16pt x 433.62pt>
+File: G1-tf-17b.png Graphic file (type png)
+ <use G1-tf-17b.png>
+Package pdftex.def Info: G1-tf-17b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-18a.png, id=137, 578.16pt x 433.62pt>
+File: G1-tf-18a.png Graphic file (type png)
+ <use G1-tf-18a.png>
+Package pdftex.def Info: G1-tf-18a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [26 <./G1-tf-16b.png (PNG copy)> <./G1-tf-17a.png (PNG copy)>]
+<G1-tf-18b.png, id=141, 578.16pt x 433.62pt>
+File: G1-tf-18b.png Graphic file (type png)
+ <use G1-tf-18b.png>
+Package pdftex.def Info: G1-tf-18b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-19a.png, id=142, 578.16pt x 433.62pt>
+File: G1-tf-19a.png Graphic file (type png)
+ <use G1-tf-19a.png>
+Package pdftex.def Info: G1-tf-19a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [27 <./G1-tf-17b.png (PNG copy)> <./G1-tf-18a.png (PNG copy)>]
+<G1-tf-19b.png, id=146, 578.16pt x 433.62pt>
+File: G1-tf-19b.png Graphic file (type png)
+ <use G1-tf-19b.png>
+Package pdftex.def Info: G1-tf-19b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-20a.png, id=147, 578.16pt x 433.62pt>
+File: G1-tf-20a.png Graphic file (type png)
+ <use G1-tf-20a.png>
+Package pdftex.def Info: G1-tf-20a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [28 <./G1-tf-18b.png (PNG copy)> <./G1-tf-19a.png (PNG copy)>]
+<G1-tf-20b.png, id=151, 578.16pt x 433.62pt>
+File: G1-tf-20b.png Graphic file (type png)
+ <use G1-tf-20b.png>
+Package pdftex.def Info: G1-tf-20b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G1-tf-21a.png, id=152, 578.16pt x 433.62pt>
+File: G1-tf-21a.png Graphic file (type png)
+ <use G1-tf-21a.png>
+Package pdftex.def Info: G1-tf-21a.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [29 <./G1-tf-19b.png (PNG copy)> <./G1-tf-20a.png (PNG copy)>]
+<G1-tf-21b.png, id=156, 578.16pt x 433.62pt>
+File: G1-tf-21b.png Graphic file (type png)
+ <use G1-tf-21b.png>
+Package pdftex.def Info: G1-tf-21b.png used on input line 14.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [30 <./G1-tf-20b.png (PNG copy)> <./G1-tf-21a.png (PNG copy)>]
+<G2-tf-1a.png, id=160, 578.16pt x 433.62pt>
+File: G2-tf-1a.png Graphic file (type png)
+ <use G2-tf-1a.png>
+Package pdftex.def Info: G2-tf-1a.png used on input line 29.
+>>>>>>> origin/master
 (pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
 
 <G2-tf-1b.png, id=161, 578.16pt x 433.62pt>
 File: G2-tf-1b.png Graphic file (type png)
  <use G2-tf-1b.png>
+<<<<<<< HEAD
 Package pdftex.def Info: G2-tf-1b.png used on input line 30.
 (pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
  [31 <./G1-tf-21a.png (PNG copy)> <./G1-tf-21b.png (PNG copy)>]
@@ -1416,11 +1692,261 @@ Package pdftex.def Info: G2-tf-21b.png used on input line 30.
 File: G3-tf-1a.png Graphic file (type png)
  <use G3-tf-1a.png>
 Package pdftex.def Info: G3-tf-1a.png used on input line 45.
+=======
+Package pdftex.def Info: G2-tf-1b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-2a.png, id=162, 578.16pt x 433.62pt>
+File: G2-tf-2a.png Graphic file (type png)
+ <use G2-tf-2a.png>
+Package pdftex.def Info: G2-tf-2a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [31 <./G1-tf-21b.png (PNG copy)> <./G2-tf-1a.png (PNG copy)>]
+<G2-tf-2b.png, id=167, 578.16pt x 433.62pt>
+File: G2-tf-2b.png Graphic file (type png)
+ <use G2-tf-2b.png>
+Package pdftex.def Info: G2-tf-2b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-3a.png, id=168, 578.16pt x 433.62pt>
+File: G2-tf-3a.png Graphic file (type png)
+ <use G2-tf-3a.png>
+Package pdftex.def Info: G2-tf-3a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [32 <./G2-tf-1b.png (PNG copy)> <./G2-tf-2a.png (PNG copy)>]
+<G2-tf-3b.png, id=172, 578.16pt x 433.62pt>
+File: G2-tf-3b.png Graphic file (type png)
+ <use G2-tf-3b.png>
+Package pdftex.def Info: G2-tf-3b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-4a.png, id=173, 578.16pt x 433.62pt>
+File: G2-tf-4a.png Graphic file (type png)
+ <use G2-tf-4a.png>
+Package pdftex.def Info: G2-tf-4a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [33 <./G2-tf-2b.png (PNG copy)> <./G2-tf-3a.png (PNG copy)>]
+<G2-tf-4b.png, id=177, 578.16pt x 433.62pt>
+File: G2-tf-4b.png Graphic file (type png)
+ <use G2-tf-4b.png>
+Package pdftex.def Info: G2-tf-4b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-5a.png, id=178, 578.16pt x 433.62pt>
+File: G2-tf-5a.png Graphic file (type png)
+ <use G2-tf-5a.png>
+Package pdftex.def Info: G2-tf-5a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [34 <./G2-tf-3b.png (PNG copy)> <./G2-tf-4a.png (PNG copy)>]
+<G2-tf-5b.png, id=182, 578.16pt x 433.62pt>
+File: G2-tf-5b.png Graphic file (type png)
+ <use G2-tf-5b.png>
+Package pdftex.def Info: G2-tf-5b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-6a.png, id=183, 578.16pt x 433.62pt>
+File: G2-tf-6a.png Graphic file (type png)
+ <use G2-tf-6a.png>
+Package pdftex.def Info: G2-tf-6a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [35 <./G2-tf-4b.png (PNG copy)> <./G2-tf-5a.png (PNG copy)>]
+<G2-tf-6b.png, id=187, 578.16pt x 433.62pt>
+File: G2-tf-6b.png Graphic file (type png)
+ <use G2-tf-6b.png>
+Package pdftex.def Info: G2-tf-6b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-7a.png, id=188, 578.16pt x 433.62pt>
+File: G2-tf-7a.png Graphic file (type png)
+ <use G2-tf-7a.png>
+Package pdftex.def Info: G2-tf-7a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [36 <./G2-tf-5b.png (PNG copy)> <./G2-tf-6a.png (PNG copy)>]
+<G2-tf-7b.png, id=192, 578.16pt x 433.62pt>
+File: G2-tf-7b.png Graphic file (type png)
+ <use G2-tf-7b.png>
+Package pdftex.def Info: G2-tf-7b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-8a.png, id=193, 578.16pt x 433.62pt>
+File: G2-tf-8a.png Graphic file (type png)
+ <use G2-tf-8a.png>
+Package pdftex.def Info: G2-tf-8a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [37 <./G2-tf-6b.png (PNG copy)> <./G2-tf-7a.png (PNG copy)>]
+<G2-tf-8b.png, id=198, 578.16pt x 433.62pt>
+File: G2-tf-8b.png Graphic file (type png)
+ <use G2-tf-8b.png>
+Package pdftex.def Info: G2-tf-8b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-9a.png, id=199, 578.16pt x 433.62pt>
+File: G2-tf-9a.png Graphic file (type png)
+ <use G2-tf-9a.png>
+Package pdftex.def Info: G2-tf-9a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [38 <./G2-tf-7b.png (PNG copy)> <./G2-tf-8a.png (PNG copy)>]
+<G2-tf-9b.png, id=203, 578.16pt x 433.62pt>
+File: G2-tf-9b.png Graphic file (type png)
+ <use G2-tf-9b.png>
+Package pdftex.def Info: G2-tf-9b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-10a.png, id=204, 578.16pt x 433.62pt>
+File: G2-tf-10a.png Graphic file (type png)
+ <use G2-tf-10a.png>
+Package pdftex.def Info: G2-tf-10a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [39 <./G2-tf-8b.png (PNG copy)> <./G2-tf-9a.png (PNG copy)>]
+<G2-tf-10b.png, id=208, 578.16pt x 433.62pt>
+File: G2-tf-10b.png Graphic file (type png)
+ <use G2-tf-10b.png>
+Package pdftex.def Info: G2-tf-10b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-11a.png, id=209, 578.16pt x 433.62pt>
+File: G2-tf-11a.png Graphic file (type png)
+ <use G2-tf-11a.png>
+Package pdftex.def Info: G2-tf-11a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [40 <./G2-tf-9b.png (PNG copy)> <./G2-tf-10a.png (PNG copy)>]
+<G2-tf-11b.png, id=213, 578.16pt x 433.62pt>
+File: G2-tf-11b.png Graphic file (type png)
+ <use G2-tf-11b.png>
+Package pdftex.def Info: G2-tf-11b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-12a.png, id=214, 578.16pt x 433.62pt>
+File: G2-tf-12a.png Graphic file (type png)
+ <use G2-tf-12a.png>
+Package pdftex.def Info: G2-tf-12a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [41 <./G2-tf-10b.png (PNG copy)> <./G2-tf-11a.png (PNG copy)>]
+<G2-tf-12b.png, id=218, 578.16pt x 433.62pt>
+File: G2-tf-12b.png Graphic file (type png)
+ <use G2-tf-12b.png>
+Package pdftex.def Info: G2-tf-12b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-13a.png, id=219, 578.16pt x 433.62pt>
+File: G2-tf-13a.png Graphic file (type png)
+ <use G2-tf-13a.png>
+Package pdftex.def Info: G2-tf-13a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [42 <./G2-tf-11b.png (PNG copy)> <./G2-tf-12a.png (PNG copy)>]
+<G2-tf-13b.png, id=223, 578.16pt x 433.62pt>
+File: G2-tf-13b.png Graphic file (type png)
+ <use G2-tf-13b.png>
+Package pdftex.def Info: G2-tf-13b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-14a.png, id=224, 578.16pt x 433.62pt>
+File: G2-tf-14a.png Graphic file (type png)
+ <use G2-tf-14a.png>
+Package pdftex.def Info: G2-tf-14a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [43 <./G2-tf-12b.png (PNG copy)> <./G2-tf-13a.png (PNG copy)>]
+<G2-tf-14b.png, id=229, 578.16pt x 433.62pt>
+File: G2-tf-14b.png Graphic file (type png)
+ <use G2-tf-14b.png>
+Package pdftex.def Info: G2-tf-14b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-15a.png, id=230, 578.16pt x 433.62pt>
+File: G2-tf-15a.png Graphic file (type png)
+ <use G2-tf-15a.png>
+Package pdftex.def Info: G2-tf-15a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [44 <./G2-tf-13b.png (PNG copy)> <./G2-tf-14a.png (PNG copy)>]
+<G2-tf-15b.png, id=234, 578.16pt x 433.62pt>
+File: G2-tf-15b.png Graphic file (type png)
+ <use G2-tf-15b.png>
+Package pdftex.def Info: G2-tf-15b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-16a.png, id=235, 578.16pt x 433.62pt>
+File: G2-tf-16a.png Graphic file (type png)
+ <use G2-tf-16a.png>
+Package pdftex.def Info: G2-tf-16a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [45 <./G2-tf-14b.png (PNG copy)> <./G2-tf-15a.png (PNG copy)>]
+<G2-tf-16b.png, id=239, 578.16pt x 433.62pt>
+File: G2-tf-16b.png Graphic file (type png)
+ <use G2-tf-16b.png>
+Package pdftex.def Info: G2-tf-16b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-17a.png, id=240, 578.16pt x 433.62pt>
+File: G2-tf-17a.png Graphic file (type png)
+ <use G2-tf-17a.png>
+Package pdftex.def Info: G2-tf-17a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [46 <./G2-tf-15b.png (PNG copy)> <./G2-tf-16a.png (PNG copy)>]
+<G2-tf-17b.png, id=244, 578.16pt x 433.62pt>
+File: G2-tf-17b.png Graphic file (type png)
+ <use G2-tf-17b.png>
+Package pdftex.def Info: G2-tf-17b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-18a.png, id=245, 578.16pt x 433.62pt>
+File: G2-tf-18a.png Graphic file (type png)
+ <use G2-tf-18a.png>
+Package pdftex.def Info: G2-tf-18a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [47 <./G2-tf-16b.png (PNG copy)> <./G2-tf-17a.png (PNG copy)>]
+<G2-tf-18b.png, id=249, 578.16pt x 433.62pt>
+File: G2-tf-18b.png Graphic file (type png)
+ <use G2-tf-18b.png>
+Package pdftex.def Info: G2-tf-18b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-19a.png, id=250, 578.16pt x 433.62pt>
+File: G2-tf-19a.png Graphic file (type png)
+ <use G2-tf-19a.png>
+Package pdftex.def Info: G2-tf-19a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [48 <./G2-tf-17b.png (PNG copy)> <./G2-tf-18a.png (PNG copy)>]
+<G2-tf-19b.png, id=254, 578.16pt x 433.62pt>
+File: G2-tf-19b.png Graphic file (type png)
+ <use G2-tf-19b.png>
+Package pdftex.def Info: G2-tf-19b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-20a.png, id=255, 578.16pt x 433.62pt>
+File: G2-tf-20a.png Graphic file (type png)
+ <use G2-tf-20a.png>
+Package pdftex.def Info: G2-tf-20a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [49 <./G2-tf-18b.png (PNG copy)> <./G2-tf-19a.png (PNG copy)>]
+<G2-tf-20b.png, id=260, 578.16pt x 433.62pt>
+File: G2-tf-20b.png Graphic file (type png)
+ <use G2-tf-20b.png>
+Package pdftex.def Info: G2-tf-20b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G2-tf-21a.png, id=261, 578.16pt x 433.62pt>
+File: G2-tf-21a.png Graphic file (type png)
+ <use G2-tf-21a.png>
+Package pdftex.def Info: G2-tf-21a.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [50 <./G2-tf-19b.png (PNG copy)> <./G2-tf-20a.png (PNG copy)>]
+<G2-tf-21b.png, id=265, 578.16pt x 433.62pt>
+File: G2-tf-21b.png Graphic file (type png)
+ <use G2-tf-21b.png>
+Package pdftex.def Info: G2-tf-21b.png used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [51 <./G2-tf-20b.png (PNG copy)> <./G2-tf-21a.png (PNG copy)>]
+<G3-tf-1a.png, id=269, 578.16pt x 433.62pt>
+File: G3-tf-1a.png Graphic file (type png)
+ <use G3-tf-1a.png>
+Package pdftex.def Info: G3-tf-1a.png used on input line 44.
+>>>>>>> origin/master
 (pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
 
 <G3-tf-1b.png, id=270, 578.16pt x 433.62pt>
 File: G3-tf-1b.png Graphic file (type png)
  <use G3-tf-1b.png>
+<<<<<<< HEAD
 Package pdftex.def Info: G3-tf-1b.png used on input line 45.
 (pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
  [52 <./G2-tf-21a.png (PNG copy)> <./G2-tf-21b.png (PNG copy)>]
@@ -1536,11 +2062,129 @@ Package pdftex.def Info: G3-tf-10b.png used on input line 45.
 File: G4-tf-1a.png Graphic file (type png)
  <use G4-tf-1a.png>
 Package pdftex.def Info: G4-tf-1a.png used on input line 60.
+=======
+Package pdftex.def Info: G3-tf-1b.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G3-tf-2a.png, id=271, 578.16pt x 433.62pt>
+File: G3-tf-2a.png Graphic file (type png)
+ <use G3-tf-2a.png>
+Package pdftex.def Info: G3-tf-2a.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [52 <./G2-tf-21b.png (PNG copy)> <./G3-tf-1a.png (PNG copy)>]
+<G3-tf-2b.png, id=275, 578.16pt x 433.62pt>
+File: G3-tf-2b.png Graphic file (type png)
+ <use G3-tf-2b.png>
+Package pdftex.def Info: G3-tf-2b.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G3-tf-3a.png, id=276, 578.16pt x 433.62pt>
+File: G3-tf-3a.png Graphic file (type png)
+ <use G3-tf-3a.png>
+Package pdftex.def Info: G3-tf-3a.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [53 <./G3-tf-1b.png (PNG copy)> <./G3-tf-2a.png (PNG copy)>]
+<G3-tf-3b.png, id=280, 578.16pt x 433.62pt>
+File: G3-tf-3b.png Graphic file (type png)
+ <use G3-tf-3b.png>
+Package pdftex.def Info: G3-tf-3b.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G3-tf-4a.png, id=281, 578.16pt x 433.62pt>
+File: G3-tf-4a.png Graphic file (type png)
+ <use G3-tf-4a.png>
+Package pdftex.def Info: G3-tf-4a.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [54 <./G3-tf-2b.png (PNG copy)> <./G3-tf-3a.png (PNG copy)>]
+<G3-tf-4b.png, id=285, 578.16pt x 433.62pt>
+File: G3-tf-4b.png Graphic file (type png)
+ <use G3-tf-4b.png>
+Package pdftex.def Info: G3-tf-4b.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G3-tf-5a.png, id=286, 578.16pt x 433.62pt>
+File: G3-tf-5a.png Graphic file (type png)
+ <use G3-tf-5a.png>
+Package pdftex.def Info: G3-tf-5a.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [55 <./G3-tf-3b.png (PNG copy)> <./G3-tf-4a.png (PNG copy)>]
+<G3-tf-5b.png, id=291, 578.16pt x 433.62pt>
+File: G3-tf-5b.png Graphic file (type png)
+ <use G3-tf-5b.png>
+Package pdftex.def Info: G3-tf-5b.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G3-tf-6a.png, id=292, 578.16pt x 433.62pt>
+File: G3-tf-6a.png Graphic file (type png)
+ <use G3-tf-6a.png>
+Package pdftex.def Info: G3-tf-6a.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [56 <./G3-tf-4b.png (PNG copy)> <./G3-tf-5a.png (PNG copy)>]
+<G3-tf-6b.png, id=296, 578.16pt x 433.62pt>
+File: G3-tf-6b.png Graphic file (type png)
+ <use G3-tf-6b.png>
+Package pdftex.def Info: G3-tf-6b.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G3-tf-7a.png, id=297, 578.16pt x 433.62pt>
+File: G3-tf-7a.png Graphic file (type png)
+ <use G3-tf-7a.png>
+Package pdftex.def Info: G3-tf-7a.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [57 <./G3-tf-5b.png (PNG copy)> <./G3-tf-6a.png (PNG copy)>]
+<G3-tf-7b.png, id=301, 578.16pt x 433.62pt>
+File: G3-tf-7b.png Graphic file (type png)
+ <use G3-tf-7b.png>
+Package pdftex.def Info: G3-tf-7b.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G3-tf-8a.png, id=302, 578.16pt x 433.62pt>
+File: G3-tf-8a.png Graphic file (type png)
+ <use G3-tf-8a.png>
+Package pdftex.def Info: G3-tf-8a.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [58 <./G3-tf-6b.png (PNG copy)> <./G3-tf-7a.png (PNG copy)>]
+<G3-tf-8b.png, id=306, 578.16pt x 433.62pt>
+File: G3-tf-8b.png Graphic file (type png)
+ <use G3-tf-8b.png>
+Package pdftex.def Info: G3-tf-8b.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G3-tf-9a.png, id=307, 578.16pt x 433.62pt>
+File: G3-tf-9a.png Graphic file (type png)
+ <use G3-tf-9a.png>
+Package pdftex.def Info: G3-tf-9a.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [59 <./G3-tf-7b.png (PNG copy)> <./G3-tf-8a.png (PNG copy)>]
+<G3-tf-9b.png, id=311, 578.16pt x 433.62pt>
+File: G3-tf-9b.png Graphic file (type png)
+ <use G3-tf-9b.png>
+Package pdftex.def Info: G3-tf-9b.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G3-tf-10a.png, id=312, 578.16pt x 433.62pt>
+File: G3-tf-10a.png Graphic file (type png)
+ <use G3-tf-10a.png>
+Package pdftex.def Info: G3-tf-10a.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [60 <./G3-tf-8b.png (PNG copy)> <./G3-tf-9a.png (PNG copy)>]
+<G3-tf-10b.png, id=316, 578.16pt x 433.62pt>
+File: G3-tf-10b.png Graphic file (type png)
+ <use G3-tf-10b.png>
+Package pdftex.def Info: G3-tf-10b.png used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [61 <./G3-tf-9b.png (PNG copy)> <./G3-tf-10a.png (PNG copy)>]
+<G4-tf-1a.png, id=321, 578.16pt x 433.62pt>
+File: G4-tf-1a.png Graphic file (type png)
+ <use G4-tf-1a.png>
+Package pdftex.def Info: G4-tf-1a.png used on input line 59.
+>>>>>>> origin/master
 (pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
 
 <G4-tf-1b.png, id=322, 578.16pt x 433.62pt>
 File: G4-tf-1b.png Graphic file (type png)
  <use G4-tf-1b.png>
+<<<<<<< HEAD
 Package pdftex.def Info: G4-tf-1b.png used on input line 60.
 (pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
  [62 <./G3-tf-10a.png (PNG copy)> <./G3-tf-10b.png (PNG copy)>]
@@ -2505,6 +3149,972 @@ Package pdftex.def Info: G9-tf-10b.png used on input line 130.
 (pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
  [142 <./G9-tf-9a.png (PNG copy)> <./G9-tf-9b.png (PNG copy)>])) [143 <./G9-tf-
 10a.png (PNG copy)> <./G9-tf-10b.png (PNG copy)>] (analiza.tex
+=======
+Package pdftex.def Info: G4-tf-1b.png used on input line 59.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G4-tf-2a.png, id=323, 578.16pt x 433.62pt>
+File: G4-tf-2a.png Graphic file (type png)
+ <use G4-tf-2a.png>
+Package pdftex.def Info: G4-tf-2a.png used on input line 59.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [62 <./G3-tf-10b.png (PNG copy)> <./G4-tf-1a.png (PNG copy)>]
+<G4-tf-2b.png, id=327, 578.16pt x 433.62pt>
+File: G4-tf-2b.png Graphic file (type png)
+ <use G4-tf-2b.png>
+Package pdftex.def Info: G4-tf-2b.png used on input line 59.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G4-tf-3a.png, id=328, 578.16pt x 433.62pt>
+File: G4-tf-3a.png Graphic file (type png)
+ <use G4-tf-3a.png>
+Package pdftex.def Info: G4-tf-3a.png used on input line 59.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [63 <./G4-tf-1b.png (PNG copy)> <./G4-tf-2a.png (PNG copy)>]
+<G4-tf-3b.png, id=332, 578.16pt x 433.62pt>
+File: G4-tf-3b.png Graphic file (type png)
+ <use G4-tf-3b.png>
+Package pdftex.def Info: G4-tf-3b.png used on input line 59.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G4-tf-4a.png, id=333, 578.16pt x 433.62pt>
+File: G4-tf-4a.png Graphic file (type png)
+ <use G4-tf-4a.png>
+Package pdftex.def Info: G4-tf-4a.png used on input line 59.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [64 <./G4-tf-2b.png (PNG copy)> <./G4-tf-3a.png (PNG copy)>]
+<G4-tf-4b.png, id=337, 578.16pt x 433.62pt>
+File: G4-tf-4b.png Graphic file (type png)
+ <use G4-tf-4b.png>
+Package pdftex.def Info: G4-tf-4b.png used on input line 59.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G4-tf-5a.png, id=338, 578.16pt x 433.62pt>
+File: G4-tf-5a.png Graphic file (type png)
+ <use G4-tf-5a.png>
+Package pdftex.def Info: G4-tf-5a.png used on input line 59.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [65 <./G4-tf-3b.png (PNG copy)> <./G4-tf-4a.png (PNG copy)>]
+<G4-tf-5b.png, id=342, 578.16pt x 433.62pt>
+File: G4-tf-5b.png Graphic file (type png)
+ <use G4-tf-5b.png>
+Package pdftex.def Info: G4-tf-5b.png used on input line 59.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G4-tf-6a.png, id=343, 578.16pt x 433.62pt>
+File: G4-tf-6a.png Graphic file (type png)
+ <use G4-tf-6a.png>
+Package pdftex.def Info: G4-tf-6a.png used on input line 59.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [66 <./G4-tf-4b.png (PNG copy)> <./G4-tf-5a.png (PNG copy)>]
+<G4-tf-6b.png, id=347, 578.16pt x 433.62pt>
+File: G4-tf-6b.png Graphic file (type png)
+ <use G4-tf-6b.png>
+Package pdftex.def Info: G4-tf-6b.png used on input line 59.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G5-tf-1a.png, id=348, 578.16pt x 433.62pt>
+File: G5-tf-1a.png Graphic file (type png)
+ <use G5-tf-1a.png>
+Package pdftex.def Info: G5-tf-1a.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [67 <./G4-tf-5b.png (PNG copy)> <./G4-tf-6a.png (PNG copy)>]
+<G5-tf-1b.png, id=353, 578.16pt x 433.62pt>
+File: G5-tf-1b.png Graphic file (type png)
+ <use G5-tf-1b.png>
+Package pdftex.def Info: G5-tf-1b.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G5-tf-2a.png, id=354, 578.16pt x 433.62pt>
+File: G5-tf-2a.png Graphic file (type png)
+ <use G5-tf-2a.png>
+Package pdftex.def Info: G5-tf-2a.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [68 <./G4-tf-6b.png (PNG copy)> <./G5-tf-1a.png (PNG copy)>]
+<G5-tf-2b.png, id=358, 578.16pt x 433.62pt>
+File: G5-tf-2b.png Graphic file (type png)
+ <use G5-tf-2b.png>
+Package pdftex.def Info: G5-tf-2b.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G5-tf-3a.png, id=359, 578.16pt x 433.62pt>
+File: G5-tf-3a.png Graphic file (type png)
+ <use G5-tf-3a.png>
+Package pdftex.def Info: G5-tf-3a.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [69 <./G5-tf-1b.png (PNG copy)> <./G5-tf-2a.png (PNG copy)>]
+<G5-tf-3b.png, id=363, 578.16pt x 433.62pt>
+File: G5-tf-3b.png Graphic file (type png)
+ <use G5-tf-3b.png>
+Package pdftex.def Info: G5-tf-3b.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G5-tf-4a.png, id=364, 578.16pt x 433.62pt>
+File: G5-tf-4a.png Graphic file (type png)
+ <use G5-tf-4a.png>
+Package pdftex.def Info: G5-tf-4a.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [70 <./G5-tf-2b.png (PNG copy)> <./G5-tf-3a.png (PNG copy)>]
+<G5-tf-4b.png, id=368, 578.16pt x 433.62pt>
+File: G5-tf-4b.png Graphic file (type png)
+ <use G5-tf-4b.png>
+Package pdftex.def Info: G5-tf-4b.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G5-tf-5a.png, id=369, 578.16pt x 433.62pt>
+File: G5-tf-5a.png Graphic file (type png)
+ <use G5-tf-5a.png>
+Package pdftex.def Info: G5-tf-5a.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [71 <./G5-tf-3b.png (PNG copy)> <./G5-tf-4a.png (PNG copy)>]
+<G5-tf-5b.png, id=373, 578.16pt x 433.62pt>
+File: G5-tf-5b.png Graphic file (type png)
+ <use G5-tf-5b.png>
+Package pdftex.def Info: G5-tf-5b.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G5-tf-6a.png, id=374, 578.16pt x 433.62pt>
+File: G5-tf-6a.png Graphic file (type png)
+ <use G5-tf-6a.png>
+Package pdftex.def Info: G5-tf-6a.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [72 <./G5-tf-4b.png (PNG copy)> <./G5-tf-5a.png (PNG copy)>]
+<G5-tf-6b.png, id=378, 578.16pt x 433.62pt>
+File: G5-tf-6b.png Graphic file (type png)
+ <use G5-tf-6b.png>
+Package pdftex.def Info: G5-tf-6b.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G5-tf-7a.png, id=379, 578.16pt x 433.62pt>
+File: G5-tf-7a.png Graphic file (type png)
+ <use G5-tf-7a.png>
+Package pdftex.def Info: G5-tf-7a.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [73 <./G5-tf-5b.png (PNG copy)> <./G5-tf-6a.png (PNG copy)>]
+<G5-tf-7b.png, id=384, 578.16pt x 433.62pt>
+File: G5-tf-7b.png Graphic file (type png)
+ <use G5-tf-7b.png>
+Package pdftex.def Info: G5-tf-7b.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G5-tf-8a.png, id=385, 578.16pt x 433.62pt>
+File: G5-tf-8a.png Graphic file (type png)
+ <use G5-tf-8a.png>
+Package pdftex.def Info: G5-tf-8a.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [74 <./G5-tf-6b.png (PNG copy)> <./G5-tf-7a.png (PNG copy)>]
+<G5-tf-8b.png, id=389, 578.16pt x 433.62pt>
+File: G5-tf-8b.png Graphic file (type png)
+ <use G5-tf-8b.png>
+Package pdftex.def Info: G5-tf-8b.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G5-tf-9a.png, id=390, 578.16pt x 433.62pt>
+File: G5-tf-9a.png Graphic file (type png)
+ <use G5-tf-9a.png>
+Package pdftex.def Info: G5-tf-9a.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [75 <./G5-tf-7b.png (PNG copy)> <./G5-tf-8a.png (PNG copy)>]
+<G5-tf-9b.png, id=394, 578.16pt x 433.62pt>
+File: G5-tf-9b.png Graphic file (type png)
+ <use G5-tf-9b.png>
+Package pdftex.def Info: G5-tf-9b.png used on input line 73.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G6-tf-1a.png, id=395, 578.16pt x 433.62pt>
+File: G6-tf-1a.png Graphic file (type png)
+ <use G6-tf-1a.png>
+Package pdftex.def Info: G6-tf-1a.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [76 <./G5-tf-8b.png (PNG copy)> <./G5-tf-9a.png (PNG copy)>]
+<G6-tf-1b.png, id=399, 578.16pt x 433.62pt>
+File: G6-tf-1b.png Graphic file (type png)
+ <use G6-tf-1b.png>
+Package pdftex.def Info: G6-tf-1b.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G6-tf-2a.png, id=400, 578.16pt x 433.62pt>
+File: G6-tf-2a.png Graphic file (type png)
+ <use G6-tf-2a.png>
+Package pdftex.def Info: G6-tf-2a.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [77 <./G5-tf-9b.png (PNG copy)> <./G6-tf-1a.png (PNG copy)>]
+<G6-tf-2b.png, id=404, 578.16pt x 433.62pt>
+File: G6-tf-2b.png Graphic file (type png)
+ <use G6-tf-2b.png>
+Package pdftex.def Info: G6-tf-2b.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G6-tf-3a.png, id=405, 578.16pt x 433.62pt>
+File: G6-tf-3a.png Graphic file (type png)
+ <use G6-tf-3a.png>
+Package pdftex.def Info: G6-tf-3a.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [78 <./G6-tf-1b.png (PNG copy)> <./G6-tf-2a.png (PNG copy)>]
+<G6-tf-3b.png, id=409, 578.16pt x 433.62pt>
+File: G6-tf-3b.png Graphic file (type png)
+ <use G6-tf-3b.png>
+Package pdftex.def Info: G6-tf-3b.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G6-tf-4a.png, id=410, 578.16pt x 433.62pt>
+File: G6-tf-4a.png Graphic file (type png)
+ <use G6-tf-4a.png>
+Package pdftex.def Info: G6-tf-4a.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [79 <./G6-tf-2b.png (PNG copy)> <./G6-tf-3a.png (PNG copy)>]
+<G6-tf-4b.png, id=415, 578.16pt x 433.62pt>
+File: G6-tf-4b.png Graphic file (type png)
+ <use G6-tf-4b.png>
+Package pdftex.def Info: G6-tf-4b.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G6-tf-5a.png, id=416, 578.16pt x 433.62pt>
+File: G6-tf-5a.png Graphic file (type png)
+ <use G6-tf-5a.png>
+Package pdftex.def Info: G6-tf-5a.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [80 <./G6-tf-3b.png (PNG copy)> <./G6-tf-4a.png (PNG copy)>]
+<G6-tf-5b.png, id=420, 578.16pt x 433.62pt>
+File: G6-tf-5b.png Graphic file (type png)
+ <use G6-tf-5b.png>
+Package pdftex.def Info: G6-tf-5b.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G6-tf-6a.png, id=421, 578.16pt x 433.62pt>
+File: G6-tf-6a.png Graphic file (type png)
+ <use G6-tf-6a.png>
+Package pdftex.def Info: G6-tf-6a.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [81 <./G6-tf-4b.png (PNG copy)> <./G6-tf-5a.png (PNG copy)>]
+<G6-tf-6b.png, id=425, 578.16pt x 433.62pt>
+File: G6-tf-6b.png Graphic file (type png)
+ <use G6-tf-6b.png>
+Package pdftex.def Info: G6-tf-6b.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G6-tf-7a.png, id=426, 578.16pt x 433.62pt>
+File: G6-tf-7a.png Graphic file (type png)
+ <use G6-tf-7a.png>
+Package pdftex.def Info: G6-tf-7a.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [82 <./G6-tf-5b.png (PNG copy)> <./G6-tf-6a.png (PNG copy)>]
+<G6-tf-7b.png, id=430, 578.16pt x 433.62pt>
+File: G6-tf-7b.png Graphic file (type png)
+ <use G6-tf-7b.png>
+Package pdftex.def Info: G6-tf-7b.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G6-tf-8a.png, id=431, 578.16pt x 433.62pt>
+File: G6-tf-8a.png Graphic file (type png)
+ <use G6-tf-8a.png>
+Package pdftex.def Info: G6-tf-8a.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [83 <./G6-tf-6b.png (PNG copy)> <./G6-tf-7a.png (PNG copy)>]
+<G6-tf-8b.png, id=435, 578.16pt x 433.62pt>
+File: G6-tf-8b.png Graphic file (type png)
+ <use G6-tf-8b.png>
+Package pdftex.def Info: G6-tf-8b.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G6-tf-9a.png, id=436, 578.16pt x 433.62pt>
+File: G6-tf-9a.png Graphic file (type png)
+ <use G6-tf-9a.png>
+Package pdftex.def Info: G6-tf-9a.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [84 <./G6-tf-7b.png (PNG copy)> <./G6-tf-8a.png (PNG copy)>]
+<G6-tf-9b.png, id=440, 578.16pt x 433.62pt>
+File: G6-tf-9b.png Graphic file (type png)
+ <use G6-tf-9b.png>
+Package pdftex.def Info: G6-tf-9b.png used on input line 87.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-1a.png, id=441, 578.16pt x 433.62pt>
+File: G7-tf-1a.png Graphic file (type png)
+ <use G7-tf-1a.png>
+Package pdftex.def Info: G7-tf-1a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [85 <./G6-tf-8b.png (PNG copy)> <./G6-tf-9a.png (PNG copy)>]
+<G7-tf-1b.png, id=446, 578.16pt x 433.62pt>
+File: G7-tf-1b.png Graphic file (type png)
+ <use G7-tf-1b.png>
+Package pdftex.def Info: G7-tf-1b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-2a.png, id=447, 578.16pt x 433.62pt>
+File: G7-tf-2a.png Graphic file (type png)
+ <use G7-tf-2a.png>
+Package pdftex.def Info: G7-tf-2a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [86 <./G6-tf-9b.png (PNG copy)> <./G7-tf-1a.png (PNG copy)>]
+<G7-tf-2b.png, id=451, 578.16pt x 433.62pt>
+File: G7-tf-2b.png Graphic file (type png)
+ <use G7-tf-2b.png>
+Package pdftex.def Info: G7-tf-2b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-3a.png, id=452, 578.16pt x 433.62pt>
+File: G7-tf-3a.png Graphic file (type png)
+ <use G7-tf-3a.png>
+Package pdftex.def Info: G7-tf-3a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [87 <./G7-tf-1b.png (PNG copy)> <./G7-tf-2a.png (PNG copy)>]
+<G7-tf-3b.png, id=456, 578.16pt x 433.62pt>
+File: G7-tf-3b.png Graphic file (type png)
+ <use G7-tf-3b.png>
+Package pdftex.def Info: G7-tf-3b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-4a.png, id=457, 578.16pt x 433.62pt>
+File: G7-tf-4a.png Graphic file (type png)
+ <use G7-tf-4a.png>
+Package pdftex.def Info: G7-tf-4a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [88 <./G7-tf-2b.png (PNG copy)> <./G7-tf-3a.png (PNG copy)>]
+<G7-tf-4b.png, id=461, 578.16pt x 433.62pt>
+File: G7-tf-4b.png Graphic file (type png)
+ <use G7-tf-4b.png>
+Package pdftex.def Info: G7-tf-4b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-5a.png, id=462, 578.16pt x 433.62pt>
+File: G7-tf-5a.png Graphic file (type png)
+ <use G7-tf-5a.png>
+Package pdftex.def Info: G7-tf-5a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [89 <./G7-tf-3b.png (PNG copy)> <./G7-tf-4a.png (PNG copy)>]
+<G7-tf-5b.png, id=466, 578.16pt x 433.62pt>
+File: G7-tf-5b.png Graphic file (type png)
+ <use G7-tf-5b.png>
+Package pdftex.def Info: G7-tf-5b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-6a.png, id=467, 578.16pt x 433.62pt>
+File: G7-tf-6a.png Graphic file (type png)
+ <use G7-tf-6a.png>
+Package pdftex.def Info: G7-tf-6a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [90 <./G7-tf-4b.png (PNG copy)> <./G7-tf-5a.png (PNG copy)>]
+<G7-tf-6b.png, id=471, 578.16pt x 433.62pt>
+File: G7-tf-6b.png Graphic file (type png)
+ <use G7-tf-6b.png>
+Package pdftex.def Info: G7-tf-6b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-7a.png, id=472, 578.16pt x 433.62pt>
+File: G7-tf-7a.png Graphic file (type png)
+ <use G7-tf-7a.png>
+Package pdftex.def Info: G7-tf-7a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [91 <./G7-tf-5b.png (PNG copy)> <./G7-tf-6a.png (PNG copy)>]
+<G7-tf-7b.png, id=477, 578.16pt x 433.62pt>
+File: G7-tf-7b.png Graphic file (type png)
+ <use G7-tf-7b.png>
+Package pdftex.def Info: G7-tf-7b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-8a.png, id=478, 578.16pt x 433.62pt>
+File: G7-tf-8a.png Graphic file (type png)
+ <use G7-tf-8a.png>
+Package pdftex.def Info: G7-tf-8a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [92 <./G7-tf-6b.png (PNG copy)> <./G7-tf-7a.png (PNG copy)>]
+<G7-tf-8b.png, id=482, 578.16pt x 433.62pt>
+File: G7-tf-8b.png Graphic file (type png)
+ <use G7-tf-8b.png>
+Package pdftex.def Info: G7-tf-8b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-9a.png, id=483, 578.16pt x 433.62pt>
+File: G7-tf-9a.png Graphic file (type png)
+ <use G7-tf-9a.png>
+Package pdftex.def Info: G7-tf-9a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [93 <./G7-tf-7b.png (PNG copy)> <./G7-tf-8a.png (PNG copy)>]
+<G7-tf-9b.png, id=487, 578.16pt x 433.62pt>
+File: G7-tf-9b.png Graphic file (type png)
+ <use G7-tf-9b.png>
+Package pdftex.def Info: G7-tf-9b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-10a.png, id=488, 578.16pt x 433.62pt>
+File: G7-tf-10a.png Graphic file (type png)
+ <use G7-tf-10a.png>
+Package pdftex.def Info: G7-tf-10a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [94 <./G7-tf-8b.png (PNG copy)> <./G7-tf-9a.png (PNG copy)>]
+<G7-tf-10b.png, id=492, 578.16pt x 433.62pt>
+File: G7-tf-10b.png Graphic file (type png)
+ <use G7-tf-10b.png>
+Package pdftex.def Info: G7-tf-10b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-11a.png, id=493, 578.16pt x 433.62pt>
+File: G7-tf-11a.png Graphic file (type png)
+ <use G7-tf-11a.png>
+Package pdftex.def Info: G7-tf-11a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [95 <./G7-tf-9b.png (PNG copy)> <./G7-tf-10a.png (PNG copy)>]
+<G7-tf-11b.png, id=497, 578.16pt x 433.62pt>
+File: G7-tf-11b.png Graphic file (type png)
+ <use G7-tf-11b.png>
+Package pdftex.def Info: G7-tf-11b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-12a.png, id=498, 578.16pt x 433.62pt>
+File: G7-tf-12a.png Graphic file (type png)
+ <use G7-tf-12a.png>
+Package pdftex.def Info: G7-tf-12a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [96 <./G7-tf-10b.png (PNG copy)> <./G7-tf-11a.png (PNG copy)>]
+<G7-tf-12b.png, id=502, 578.16pt x 433.62pt>
+File: G7-tf-12b.png Graphic file (type png)
+ <use G7-tf-12b.png>
+Package pdftex.def Info: G7-tf-12b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-13a.png, id=503, 578.16pt x 433.62pt>
+File: G7-tf-13a.png Graphic file (type png)
+ <use G7-tf-13a.png>
+Package pdftex.def Info: G7-tf-13a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [97 <./G7-tf-11b.png (PNG copy)> <./G7-tf-12a.png (PNG copy)>]
+<G7-tf-13b.png, id=508, 578.16pt x 433.62pt>
+File: G7-tf-13b.png Graphic file (type png)
+ <use G7-tf-13b.png>
+Package pdftex.def Info: G7-tf-13b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-14a.png, id=509, 578.16pt x 433.62pt>
+File: G7-tf-14a.png Graphic file (type png)
+ <use G7-tf-14a.png>
+Package pdftex.def Info: G7-tf-14a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [98 <./G7-tf-12b.png (PNG copy)> <./G7-tf-13a.png (PNG copy)>]
+<G7-tf-14b.png, id=513, 578.16pt x 433.62pt>
+File: G7-tf-14b.png Graphic file (type png)
+ <use G7-tf-14b.png>
+Package pdftex.def Info: G7-tf-14b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-15a.png, id=514, 578.16pt x 433.62pt>
+File: G7-tf-15a.png Graphic file (type png)
+ <use G7-tf-15a.png>
+Package pdftex.def Info: G7-tf-15a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [99 <./G7-tf-13b.png (PNG copy)> <./G7-tf-14a.png (PNG copy)>]
+<G7-tf-15b.png, id=518, 578.16pt x 433.62pt>
+File: G7-tf-15b.png Graphic file (type png)
+ <use G7-tf-15b.png>
+Package pdftex.def Info: G7-tf-15b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-16a.png, id=519, 578.16pt x 433.62pt>
+File: G7-tf-16a.png Graphic file (type png)
+ <use G7-tf-16a.png>
+Package pdftex.def Info: G7-tf-16a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [100 <./G7-tf-14b.png (PNG copy)> <./G7-tf-15a.png (PNG copy)>]
+<G7-tf-16b.png, id=523, 578.16pt x 433.62pt>
+File: G7-tf-16b.png Graphic file (type png)
+ <use G7-tf-16b.png>
+Package pdftex.def Info: G7-tf-16b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-17a.png, id=524, 578.16pt x 433.62pt>
+File: G7-tf-17a.png Graphic file (type png)
+ <use G7-tf-17a.png>
+Package pdftex.def Info: G7-tf-17a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [101 <./G7-tf-15b.png (PNG copy)> <./G7-tf-16a.png (PNG copy)>]
+<G7-tf-17b.png, id=528, 578.16pt x 433.62pt>
+File: G7-tf-17b.png Graphic file (type png)
+ <use G7-tf-17b.png>
+Package pdftex.def Info: G7-tf-17b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-18a.png, id=529, 578.16pt x 433.62pt>
+File: G7-tf-18a.png Graphic file (type png)
+ <use G7-tf-18a.png>
+Package pdftex.def Info: G7-tf-18a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [102 <./G7-tf-16b.png (PNG copy)> <./G7-tf-17a.png (PNG copy)>]
+<G7-tf-18b.png, id=533, 578.16pt x 433.62pt>
+File: G7-tf-18b.png Graphic file (type png)
+ <use G7-tf-18b.png>
+Package pdftex.def Info: G7-tf-18b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-19a.png, id=534, 578.16pt x 433.62pt>
+File: G7-tf-19a.png Graphic file (type png)
+ <use G7-tf-19a.png>
+Package pdftex.def Info: G7-tf-19a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [103 <./G7-tf-17b.png (PNG copy)> <./G7-tf-18a.png (PNG copy)>]
+<G7-tf-19b.png, id=539, 578.16pt x 433.62pt>
+File: G7-tf-19b.png Graphic file (type png)
+ <use G7-tf-19b.png>
+Package pdftex.def Info: G7-tf-19b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-20a.png, id=540, 578.16pt x 433.62pt>
+File: G7-tf-20a.png Graphic file (type png)
+ <use G7-tf-20a.png>
+Package pdftex.def Info: G7-tf-20a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [104 <./G7-tf-18b.png (PNG copy)> <./G7-tf-19a.png (PNG copy)>]
+<G7-tf-20b.png, id=544, 578.16pt x 433.62pt>
+File: G7-tf-20b.png Graphic file (type png)
+ <use G7-tf-20b.png>
+Package pdftex.def Info: G7-tf-20b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-21a.png, id=545, 578.16pt x 433.62pt>
+File: G7-tf-21a.png Graphic file (type png)
+ <use G7-tf-21a.png>
+Package pdftex.def Info: G7-tf-21a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [105 <./G7-tf-19b.png (PNG copy)> <./G7-tf-20a.png (PNG copy)>]
+<G7-tf-21b.png, id=549, 578.16pt x 433.62pt>
+File: G7-tf-21b.png Graphic file (type png)
+ <use G7-tf-21b.png>
+Package pdftex.def Info: G7-tf-21b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-22a.png, id=550, 578.16pt x 433.62pt>
+File: G7-tf-22a.png Graphic file (type png)
+ <use G7-tf-22a.png>
+Package pdftex.def Info: G7-tf-22a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [106 <./G7-tf-20b.png (PNG copy)> <./G7-tf-21a.png (PNG copy)>]
+<G7-tf-22b.png, id=554, 578.16pt x 433.62pt>
+File: G7-tf-22b.png Graphic file (type png)
+ <use G7-tf-22b.png>
+Package pdftex.def Info: G7-tf-22b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-23a.png, id=555, 578.16pt x 433.62pt>
+File: G7-tf-23a.png Graphic file (type png)
+ <use G7-tf-23a.png>
+Package pdftex.def Info: G7-tf-23a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [107 <./G7-tf-21b.png (PNG copy)> <./G7-tf-22a.png (PNG copy)>]
+<G7-tf-23b.png, id=559, 578.16pt x 433.62pt>
+File: G7-tf-23b.png Graphic file (type png)
+ <use G7-tf-23b.png>
+Package pdftex.def Info: G7-tf-23b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-24a.png, id=560, 578.16pt x 433.62pt>
+File: G7-tf-24a.png Graphic file (type png)
+ <use G7-tf-24a.png>
+Package pdftex.def Info: G7-tf-24a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [108 <./G7-tf-22b.png (PNG copy)> <./G7-tf-23a.png (PNG copy)>]
+<G7-tf-24b.png, id=564, 578.16pt x 433.62pt>
+File: G7-tf-24b.png Graphic file (type png)
+ <use G7-tf-24b.png>
+Package pdftex.def Info: G7-tf-24b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-25a.png, id=565, 578.16pt x 433.62pt>
+File: G7-tf-25a.png Graphic file (type png)
+ <use G7-tf-25a.png>
+Package pdftex.def Info: G7-tf-25a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [109 <./G7-tf-23b.png (PNG copy)> <./G7-tf-24a.png (PNG copy)>]
+<G7-tf-25b.png, id=570, 578.16pt x 433.62pt>
+File: G7-tf-25b.png Graphic file (type png)
+ <use G7-tf-25b.png>
+Package pdftex.def Info: G7-tf-25b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-26a.png, id=571, 578.16pt x 433.62pt>
+File: G7-tf-26a.png Graphic file (type png)
+ <use G7-tf-26a.png>
+Package pdftex.def Info: G7-tf-26a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [110 <./G7-tf-24b.png (PNG copy)> <./G7-tf-25a.png (PNG copy)>]
+<G7-tf-26b.png, id=575, 578.16pt x 433.62pt>
+File: G7-tf-26b.png Graphic file (type png)
+ <use G7-tf-26b.png>
+Package pdftex.def Info: G7-tf-26b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-27a.png, id=576, 578.16pt x 433.62pt>
+File: G7-tf-27a.png Graphic file (type png)
+ <use G7-tf-27a.png>
+Package pdftex.def Info: G7-tf-27a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [111 <./G7-tf-25b.png (PNG copy)> <./G7-tf-26a.png (PNG copy)>]
+<G7-tf-27b.png, id=580, 578.16pt x 433.62pt>
+File: G7-tf-27b.png Graphic file (type png)
+ <use G7-tf-27b.png>
+Package pdftex.def Info: G7-tf-27b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-28a.png, id=581, 578.16pt x 433.62pt>
+File: G7-tf-28a.png Graphic file (type png)
+ <use G7-tf-28a.png>
+Package pdftex.def Info: G7-tf-28a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [112 <./G7-tf-26b.png (PNG copy)> <./G7-tf-27a.png (PNG copy)>]
+<G7-tf-28b.png, id=585, 578.16pt x 433.62pt>
+File: G7-tf-28b.png Graphic file (type png)
+ <use G7-tf-28b.png>
+Package pdftex.def Info: G7-tf-28b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-29a.png, id=586, 578.16pt x 433.62pt>
+File: G7-tf-29a.png Graphic file (type png)
+ <use G7-tf-29a.png>
+Package pdftex.def Info: G7-tf-29a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [113 <./G7-tf-27b.png (PNG copy)> <./G7-tf-28a.png (PNG copy)>]
+<G7-tf-29b.png, id=590, 578.16pt x 433.62pt>
+File: G7-tf-29b.png Graphic file (type png)
+ <use G7-tf-29b.png>
+Package pdftex.def Info: G7-tf-29b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-30a.png, id=591, 578.16pt x 433.62pt>
+File: G7-tf-30a.png Graphic file (type png)
+ <use G7-tf-30a.png>
+Package pdftex.def Info: G7-tf-30a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [114 <./G7-tf-28b.png (PNG copy)> <./G7-tf-29a.png (PNG copy)>]
+<G7-tf-30b.png, id=595, 578.16pt x 433.62pt>
+File: G7-tf-30b.png Graphic file (type png)
+ <use G7-tf-30b.png>
+Package pdftex.def Info: G7-tf-30b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-31a.png, id=596, 578.16pt x 433.62pt>
+File: G7-tf-31a.png Graphic file (type png)
+ <use G7-tf-31a.png>
+Package pdftex.def Info: G7-tf-31a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [115 <./G7-tf-29b.png (PNG copy)> <./G7-tf-30a.png (PNG copy)>]
+<G7-tf-31b.png, id=601, 578.16pt x 433.62pt>
+File: G7-tf-31b.png Graphic file (type png)
+ <use G7-tf-31b.png>
+Package pdftex.def Info: G7-tf-31b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-32a.png, id=602, 578.16pt x 433.62pt>
+File: G7-tf-32a.png Graphic file (type png)
+ <use G7-tf-32a.png>
+Package pdftex.def Info: G7-tf-32a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [116 <./G7-tf-30b.png (PNG copy)> <./G7-tf-31a.png (PNG copy)>]
+<G7-tf-32b.png, id=606, 578.16pt x 433.62pt>
+File: G7-tf-32b.png Graphic file (type png)
+ <use G7-tf-32b.png>
+Package pdftex.def Info: G7-tf-32b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-33a.png, id=607, 578.16pt x 433.62pt>
+File: G7-tf-33a.png Graphic file (type png)
+ <use G7-tf-33a.png>
+Package pdftex.def Info: G7-tf-33a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [117 <./G7-tf-31b.png (PNG copy)> <./G7-tf-32a.png (PNG copy)>]
+<G7-tf-33b.png, id=611, 578.16pt x 433.62pt>
+File: G7-tf-33b.png Graphic file (type png)
+ <use G7-tf-33b.png>
+Package pdftex.def Info: G7-tf-33b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-34a.png, id=612, 578.16pt x 433.62pt>
+File: G7-tf-34a.png Graphic file (type png)
+ <use G7-tf-34a.png>
+Package pdftex.def Info: G7-tf-34a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [118 <./G7-tf-32b.png (PNG copy)> <./G7-tf-33a.png (PNG copy)>]
+<G7-tf-34b.png, id=616, 578.16pt x 433.62pt>
+File: G7-tf-34b.png Graphic file (type png)
+ <use G7-tf-34b.png>
+Package pdftex.def Info: G7-tf-34b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-35a.png, id=617, 578.16pt x 433.62pt>
+File: G7-tf-35a.png Graphic file (type png)
+ <use G7-tf-35a.png>
+Package pdftex.def Info: G7-tf-35a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [119 <./G7-tf-33b.png (PNG copy)> <./G7-tf-34a.png (PNG copy)>]
+<G7-tf-35b.png, id=621, 578.16pt x 433.62pt>
+File: G7-tf-35b.png Graphic file (type png)
+ <use G7-tf-35b.png>
+Package pdftex.def Info: G7-tf-35b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G7-tf-36a.png, id=622, 578.16pt x 433.62pt>
+File: G7-tf-36a.png Graphic file (type png)
+ <use G7-tf-36a.png>
+Package pdftex.def Info: G7-tf-36a.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [120 <./G7-tf-34b.png (PNG copy)> <./G7-tf-35a.png (PNG copy)>]
+<G7-tf-36b.png, id=626, 578.16pt x 433.62pt>
+File: G7-tf-36b.png Graphic file (type png)
+ <use G7-tf-36b.png>
+Package pdftex.def Info: G7-tf-36b.png used on input line 101.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G8-tf-1a.png, id=627, 578.16pt x 433.62pt>
+File: G8-tf-1a.png Graphic file (type png)
+ <use G8-tf-1a.png>
+Package pdftex.def Info: G8-tf-1a.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [121 <./G7-tf-35b.png (PNG copy)> <./G7-tf-36a.png (PNG copy)>]
+<G8-tf-1b.png, id=632, 578.16pt x 433.62pt>
+File: G8-tf-1b.png Graphic file (type png)
+ <use G8-tf-1b.png>
+Package pdftex.def Info: G8-tf-1b.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G8-tf-2a.png, id=633, 578.16pt x 433.62pt>
+File: G8-tf-2a.png Graphic file (type png)
+ <use G8-tf-2a.png>
+Package pdftex.def Info: G8-tf-2a.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [122 <./G7-tf-36b.png (PNG copy)> <./G8-tf-1a.png (PNG copy)>]
+<G8-tf-2b.png, id=637, 578.16pt x 433.62pt>
+File: G8-tf-2b.png Graphic file (type png)
+ <use G8-tf-2b.png>
+Package pdftex.def Info: G8-tf-2b.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G8-tf-3a.png, id=638, 578.16pt x 433.62pt>
+File: G8-tf-3a.png Graphic file (type png)
+ <use G8-tf-3a.png>
+Package pdftex.def Info: G8-tf-3a.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [123 <./G8-tf-1b.png (PNG copy)> <./G8-tf-2a.png (PNG copy)>]
+<G8-tf-3b.png, id=642, 578.16pt x 433.62pt>
+File: G8-tf-3b.png Graphic file (type png)
+ <use G8-tf-3b.png>
+Package pdftex.def Info: G8-tf-3b.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G8-tf-4a.png, id=643, 578.16pt x 433.62pt>
+File: G8-tf-4a.png Graphic file (type png)
+ <use G8-tf-4a.png>
+Package pdftex.def Info: G8-tf-4a.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [124 <./G8-tf-2b.png (PNG copy)> <./G8-tf-3a.png (PNG copy)>]
+<G8-tf-4b.png, id=647, 578.16pt x 433.62pt>
+File: G8-tf-4b.png Graphic file (type png)
+ <use G8-tf-4b.png>
+Package pdftex.def Info: G8-tf-4b.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G8-tf-5a.png, id=648, 578.16pt x 433.62pt>
+File: G8-tf-5a.png Graphic file (type png)
+ <use G8-tf-5a.png>
+Package pdftex.def Info: G8-tf-5a.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [125 <./G8-tf-3b.png (PNG copy)> <./G8-tf-4a.png (PNG copy)>]
+<G8-tf-5b.png, id=652, 578.16pt x 433.62pt>
+File: G8-tf-5b.png Graphic file (type png)
+ <use G8-tf-5b.png>
+Package pdftex.def Info: G8-tf-5b.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G8-tf-6a.png, id=653, 578.16pt x 433.62pt>
+File: G8-tf-6a.png Graphic file (type png)
+ <use G8-tf-6a.png>
+Package pdftex.def Info: G8-tf-6a.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [126 <./G8-tf-4b.png (PNG copy)> <./G8-tf-5a.png (PNG copy)>]
+<G8-tf-6b.png, id=657, 578.16pt x 433.62pt>
+File: G8-tf-6b.png Graphic file (type png)
+ <use G8-tf-6b.png>
+Package pdftex.def Info: G8-tf-6b.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G8-tf-7a.png, id=658, 578.16pt x 433.62pt>
+File: G8-tf-7a.png Graphic file (type png)
+ <use G8-tf-7a.png>
+Package pdftex.def Info: G8-tf-7a.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [127 <./G8-tf-5b.png (PNG copy)> <./G8-tf-6a.png (PNG copy)>]
+<G8-tf-7b.png, id=663, 578.16pt x 433.62pt>
+File: G8-tf-7b.png Graphic file (type png)
+ <use G8-tf-7b.png>
+Package pdftex.def Info: G8-tf-7b.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G8-tf-8a.png, id=664, 578.16pt x 433.62pt>
+File: G8-tf-8a.png Graphic file (type png)
+ <use G8-tf-8a.png>
+Package pdftex.def Info: G8-tf-8a.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [128 <./G8-tf-6b.png (PNG copy)> <./G8-tf-7a.png (PNG copy)>]
+<G8-tf-8b.png, id=668, 578.16pt x 433.62pt>
+File: G8-tf-8b.png Graphic file (type png)
+ <use G8-tf-8b.png>
+Package pdftex.def Info: G8-tf-8b.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G8-tf-9a.png, id=669, 578.16pt x 433.62pt>
+File: G8-tf-9a.png Graphic file (type png)
+ <use G8-tf-9a.png>
+Package pdftex.def Info: G8-tf-9a.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [129 <./G8-tf-7b.png (PNG copy)> <./G8-tf-8a.png (PNG copy)>]
+<G8-tf-9b.png, id=673, 578.16pt x 433.62pt>
+File: G8-tf-9b.png Graphic file (type png)
+ <use G8-tf-9b.png>
+Package pdftex.def Info: G8-tf-9b.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G8-tf-10a.png, id=674, 578.16pt x 433.62pt>
+File: G8-tf-10a.png Graphic file (type png)
+ <use G8-tf-10a.png>
+Package pdftex.def Info: G8-tf-10a.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [130 <./G8-tf-8b.png (PNG copy)> <./G8-tf-9a.png (PNG copy)>]
+<G8-tf-10b.png, id=678, 578.16pt x 433.62pt>
+File: G8-tf-10b.png Graphic file (type png)
+ <use G8-tf-10b.png>
+Package pdftex.def Info: G8-tf-10b.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G8-tf-11a.png, id=679, 578.16pt x 433.62pt>
+File: G8-tf-11a.png Graphic file (type png)
+ <use G8-tf-11a.png>
+Package pdftex.def Info: G8-tf-11a.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [131 <./G8-tf-9b.png (PNG copy)> <./G8-tf-10a.png (PNG copy)>]
+<G8-tf-11b.png, id=683, 578.16pt x 433.62pt>
+File: G8-tf-11b.png Graphic file (type png)
+ <use G8-tf-11b.png>
+Package pdftex.def Info: G8-tf-11b.png used on input line 115.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G9-tf-1a.png, id=684, 578.16pt x 433.62pt>
+File: G9-tf-1a.png Graphic file (type png)
+ <use G9-tf-1a.png>
+Package pdftex.def Info: G9-tf-1a.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [132 <./G8-tf-10b.png (PNG copy)> <./G8-tf-11a.png (PNG copy)>]
+<G9-tf-1b.png, id=688, 578.16pt x 433.62pt>
+File: G9-tf-1b.png Graphic file (type png)
+ <use G9-tf-1b.png>
+Package pdftex.def Info: G9-tf-1b.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G9-tf-2a.png, id=689, 578.16pt x 433.62pt>
+File: G9-tf-2a.png Graphic file (type png)
+ <use G9-tf-2a.png>
+Package pdftex.def Info: G9-tf-2a.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [133 <./G8-tf-11b.png (PNG copy)> <./G9-tf-1a.png (PNG copy)>]
+<G9-tf-2b.png, id=694, 578.16pt x 433.62pt>
+File: G9-tf-2b.png Graphic file (type png)
+ <use G9-tf-2b.png>
+Package pdftex.def Info: G9-tf-2b.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G9-tf-3a.png, id=695, 578.16pt x 433.62pt>
+File: G9-tf-3a.png Graphic file (type png)
+ <use G9-tf-3a.png>
+Package pdftex.def Info: G9-tf-3a.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [134 <./G9-tf-1b.png (PNG copy)> <./G9-tf-2a.png (PNG copy)>]
+<G9-tf-3b.png, id=699, 578.16pt x 433.62pt>
+File: G9-tf-3b.png Graphic file (type png)
+ <use G9-tf-3b.png>
+Package pdftex.def Info: G9-tf-3b.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G9-tf-4a.png, id=700, 578.16pt x 433.62pt>
+File: G9-tf-4a.png Graphic file (type png)
+ <use G9-tf-4a.png>
+Package pdftex.def Info: G9-tf-4a.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [135 <./G9-tf-2b.png (PNG copy)> <./G9-tf-3a.png (PNG copy)>]
+<G9-tf-4b.png, id=704, 578.16pt x 433.62pt>
+File: G9-tf-4b.png Graphic file (type png)
+ <use G9-tf-4b.png>
+Package pdftex.def Info: G9-tf-4b.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G9-tf-5a.png, id=705, 578.16pt x 433.62pt>
+File: G9-tf-5a.png Graphic file (type png)
+ <use G9-tf-5a.png>
+Package pdftex.def Info: G9-tf-5a.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [136 <./G9-tf-3b.png (PNG copy)> <./G9-tf-4a.png (PNG copy)>]
+<G9-tf-5b.png, id=709, 578.16pt x 433.62pt>
+File: G9-tf-5b.png Graphic file (type png)
+ <use G9-tf-5b.png>
+Package pdftex.def Info: G9-tf-5b.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G9-tf-6a.png, id=710, 578.16pt x 433.62pt>
+File: G9-tf-6a.png Graphic file (type png)
+ <use G9-tf-6a.png>
+Package pdftex.def Info: G9-tf-6a.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [137 <./G9-tf-4b.png (PNG copy)> <./G9-tf-5a.png (PNG copy)>]
+<G9-tf-6b.png, id=714, 578.16pt x 433.62pt>
+File: G9-tf-6b.png Graphic file (type png)
+ <use G9-tf-6b.png>
+Package pdftex.def Info: G9-tf-6b.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G9-tf-7a.png, id=715, 578.16pt x 433.62pt>
+File: G9-tf-7a.png Graphic file (type png)
+ <use G9-tf-7a.png>
+Package pdftex.def Info: G9-tf-7a.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [138 <./G9-tf-5b.png (PNG copy)> <./G9-tf-6a.png (PNG copy)>]
+<G9-tf-7b.png, id=719, 578.16pt x 433.62pt>
+File: G9-tf-7b.png Graphic file (type png)
+ <use G9-tf-7b.png>
+Package pdftex.def Info: G9-tf-7b.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G9-tf-8a.png, id=720, 578.16pt x 433.62pt>
+File: G9-tf-8a.png Graphic file (type png)
+ <use G9-tf-8a.png>
+Package pdftex.def Info: G9-tf-8a.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [139 <./G9-tf-6b.png (PNG copy)> <./G9-tf-7a.png (PNG copy)>]
+<G9-tf-8b.png, id=725, 578.16pt x 433.62pt>
+File: G9-tf-8b.png Graphic file (type png)
+ <use G9-tf-8b.png>
+Package pdftex.def Info: G9-tf-8b.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G9-tf-9a.png, id=726, 578.16pt x 433.62pt>
+File: G9-tf-9a.png Graphic file (type png)
+ <use G9-tf-9a.png>
+Package pdftex.def Info: G9-tf-9a.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [140 <./G9-tf-7b.png (PNG copy)> <./G9-tf-8a.png (PNG copy)>]
+<G9-tf-9b.png, id=730, 578.16pt x 433.62pt>
+File: G9-tf-9b.png Graphic file (type png)
+ <use G9-tf-9b.png>
+Package pdftex.def Info: G9-tf-9b.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+
+<G9-tf-10a.png, id=731, 578.16pt x 433.62pt>
+File: G9-tf-10a.png Graphic file (type png)
+ <use G9-tf-10a.png>
+Package pdftex.def Info: G9-tf-10a.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+ [141 <./G9-tf-8b.png (PNG copy)> <./G9-tf-9a.png (PNG copy)>]
+<G9-tf-10b.png, id=735, 578.16pt x 433.62pt>
+File: G9-tf-10b.png Graphic file (type png)
+ <use G9-tf-10b.png>
+Package pdftex.def Info: G9-tf-10b.png used on input line 129.
+(pdftex.def)             Requested size: 398.33858pt x 298.75482pt.
+)) [142 <./G9-tf-9b.png (PNG copy)> <./G9-tf-10a.png (PNG copy)>] [143 <./G9-tf
+-10b.png (PNG copy)>] (analiza.tex
+>>>>>>> origin/master
 Rozdzia\l  3.
 ) [144
 
@@ -2544,7 +4154,11 @@ lvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a
 Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/t
 imes/utmri8a.pfb>
+<<<<<<< HEAD
 Output written on projekt.pdf (152 pages, 16972205 bytes).
+=======
+Output written on projekt.pdf (152 pages, 16972103 bytes).
+>>>>>>> origin/master
 PDF statistics:
  830 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
