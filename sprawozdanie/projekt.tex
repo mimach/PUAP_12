@@ -1,0 +1,86 @@
+\documentclass[pl]{aghdpl}
+\usepackage[polish]{babel}
+
+% dodatkowe pakiety
+\usepackage{float}
+\usepackage{pgffor}
+\usepackage{enumerate}
+\usepackage{listings}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{tocloft}
+\usepackage{mcode}
+\lstloadlanguages{TeX}
+
+\renewcommand{\thefigure}{\thesection.\arabic{figure}}
+\renewcommand{\thetable}{\thesection.\arabic{table}}
+\renewcommand{\cftloftitlefont}{\Large\bfseries}
+
+\makeatletter
+\@openrightfalse
+\DeclareRobustCommand{\em}{%
+	\@nomath\em \if b\expandafter\@car\f@series\@nil
+	\normalfont \else \bfseries \fi}
+\makeatother
+
+\lstset{
+	literate={ą}{{\k{a}}}1
+	{ć}{{\'c}}1
+	{ę}{{\k{e}}}1
+	{ó}{{\'o}}1
+	{ń}{{\'n}}1
+	{ł}{{\l{}}}1
+	{ś}{{\'s}}1
+	{ź}{{\'z}}1
+	{ż}{{\.z}}1
+	{Ą}{{\k{A}}}1
+	{Ć}{{\'C}}1
+	{Ę}{{\k{E}}}1
+	{Ó}{{\'O}}1
+	{Ń}{{\'N}}1
+	{Ł}{{\L{}}}1
+	{Ś}{{\'S}}1
+	{Ź}{{\'Z}}1
+	{Ż}{{\.Z}}1
+}
+%---------------------------------------------------------------------------------------------------
+\author{Miłosz Mach}
+\shortauthor{M.Mach}
+
+\titlePL{Analiza regulatorów strojonych metodami automatycznego strojenia zaimplementowanymi w Matlab Control Toolbox dla pierwszego zestawu problemów}
+\titleEN{Analysis of regulators tuned automatically by tools implemented in Matlab Control Toolbox for the first set of problems}
+
+\shorttitlePL{Analiza regulatorów strojonych metodami automatycznego strojenia zaimplementowanymi w Matlab Control Toolbox dla pierwszego zestawu problemów}
+\shorttitleEN{Analysis of regulators tuned automatically by tools implemented in Matlab Control Toolbox for the first set of problems}
+
+\thesistype{Projekt}
+
+\supervisor{Jerzy Baranowski, dr inż.}
+
+\degreeprogramme{AiR, Komputerowe Systemy Sterowania, Robotyka}
+
+\date{2016}
+
+\department{Katedra Automatyki i Inżynierii Biomedycznej}
+
+\faculty{Wydział Elektrotechniki, Automatyki,\protect\\[-1mm] Informatyki i Inżynierii Biomedycznej}
+
+ \acknowledgements{}
+
+%---------------------------------------------------------------------------------------------------
+\begin{document}
+
+\titlepages
+\setcounter{tocdepth}{3}
+\tableofcontents
+
+\include{wstep}
+\include{wteoretyczny}
+\include{rozwiazanie}
+\include{analiza}
+
+\listoffigures
+\addcontentsline{toc}{chapter}{Spis rysunków}
+
+\end{document}

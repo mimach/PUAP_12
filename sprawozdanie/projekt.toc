@@ -1,0 +1,12 @@
+\select@language {polish}
+\contentsline {chapter}{Wst\IeC {\k e}p}{3}
+\contentsline {chapter}{\numberline {1}Wprowadzenie teoretyczne}{4}
+\contentsline {section}{\numberline {1.1}PID Tuner}{4}
+\contentsline {section}{\numberline {1.2}SISO Design Tool}{5}
+\contentsline {section}{\numberline {1.3}Strojenie z wiersza polece\IeC {\'n}}{6}
+\contentsline {chapter}{\numberline {2}Rozwi\IeC {\k a}zanie}{7}
+\contentsline {section}{\numberline {2.1}Wst\k {e}p}{7}
+\contentsline {section}{\numberline {2.2}\IeC {\'Z}r\IeC {\'o}d\IeC {\l }a}{8}
+\contentsline {section}{\numberline {2.3}Analiza uk\IeC {\l }adu zamkni\IeC {\k e}tego}{10}
+\contentsline {chapter}{\numberline {3}Analiza wynik\IeC {\'o}w}{144}
+\contentsline {chapter}{Spis rysunk\IeC {\'o}w}{152}
